@@ -1,7 +1,12 @@
 import javax.swing.*;
 import java.applet.*;
 
-
+/**
+ * 
+ * @author ourkia yassin
+ * Main to class to launch the application
+ *
+ */
 public class MasterMindFenetre extends JFrame
 {
 static
@@ -11,7 +16,7 @@ catch(Exception e) {}
 }
  MasterMindFenetre()
  {
- super("MRG MASTERMIND");
+ super("MASTERMIND - WeedoGift");
  setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
  setResizable(false);
  setSize(420,550);

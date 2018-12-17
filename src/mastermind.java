@@ -9,7 +9,11 @@ class SEssai {
    public int[] couleurs=new int[50];
 }
 
-
+/**
+ * 
+ * @author ourkia yassin
+ *
+ */
 class mastermind
 {
   public int rd(int nb_couleurs)

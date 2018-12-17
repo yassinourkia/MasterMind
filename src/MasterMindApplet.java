@@ -2,7 +2,12 @@
     import java.awt.*;
     import java.awt.event.*;
 	import javax.swing.*;
-    
+    /**
+     * 
+     * @author ourkia yassin
+     * Master Mind applet to display all components
+     *
+     */
     public class MasterMindApplet extends Applet implements MouseListener,ActionListener
     {
     Button btn_Quitter,btn_Recommencer,btn_Resoudre;

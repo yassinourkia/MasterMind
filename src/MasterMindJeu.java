@@ -1,5 +1,10 @@
 import java.util.Random;
-
+/**
+ * 
+ * @author ourkia yassin
+ * The Model class where all the rules of the game are implemented
+ *
+ */
 public class MasterMindJeu
 {
 
